@@ -29,7 +29,7 @@ namespace GetDrive
         {
             Console.WriteLine("Adicione seu cupom de desconto.");
             string _cupom = Console.ReadLine();
-            ValordaCorrida = ValordaCorrida * 1.85;
+            ValordaCorrida = ValordaCorrida * 0.85;
             return $"O preço total com desconto é de R$ {ValordaCorrida.ToString("N2")}";        
         }
     }

@@ -1,0 +1,16 @@
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\bin\Debug\net5.0\GetDrive.exe
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\bin\Debug\net5.0\GetDrive.deps.json
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\bin\Debug\net5.0\GetDrive.runtimeconfig.json
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\bin\Debug\net5.0\GetDrive.runtimeconfig.dev.json
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\bin\Debug\net5.0\GetDrive.dll
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\bin\Debug\net5.0\GetDrive.pdb
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\GetDrive.csproj.AssemblyReference.cache
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\GetDrive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\GetDrive.AssemblyInfoInputs.cache
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\GetDrive.AssemblyInfo.cs
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\GetDrive.csproj.CoreCompileInputs.cache
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\GetDrive.dll
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\refint\GetDrive.dll
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\GetDrive.pdb
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\GetDrive.genruntimeconfig.cache
+C:\Users\morae\OneDrive\Documentos\GitHub\GetDrive\obj\Debug\net5.0\ref\GetDrive.dll
